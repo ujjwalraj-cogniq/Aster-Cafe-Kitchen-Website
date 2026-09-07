@@ -1,5 +1,7 @@
 # Aster Cafe & Kitchen ☕🌿
 
+**🔗 Live Demo: [https://react-website-eight-omega.vercel.app](https://react-website-eight-omega.vercel.app)**
+
 A premium, highly responsive frontend web application built for a luxury cafe experience. 
 
 This project serves as the official frontend for Aster Cafe & Kitchen. It features a stunning dark-plum and gold aesthetic with glassmorphic elements, smooth micro-animations, and mobile-first responsiveness. It also includes an integrated AI concierge to assist customers with menu inquiries and reservations.
